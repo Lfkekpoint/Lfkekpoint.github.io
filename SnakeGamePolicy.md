@@ -1,4 +1,5 @@
-Privacy Policy lfkekpoint developer built the "Snake Classic Game. Hard Mode" app as a Free app. This SERVICE is provided by lfkekpoint developer at no cost and is intended for use as is.
+Privacy Policy lfkekpoint developer built the "Snake Classic Game. Hard Mode" app as a Free app. This SERVICE is provided by lfkekpoint developer at no cost and is intended for use as is. You can downloaded it on:
+- Google Play https://play.google.com/store/apps/details?id=com.lfkekpoint.game.snake
 
 This page is used to inform website visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
